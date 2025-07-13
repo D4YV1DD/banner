@@ -1,5 +1,5 @@
 [![MasterHead](https://www.dataquest.io/wp-content/uploads/2019/10/DinoSequentialSmaller.gif)](https://github.com/D4YV1DD)
-<h1 align="center">Hi 👋, I'm DAN,DAVID OCER</h1>
+<h1 align="center">Hi 👋, dev </h1>
 <h3 align="center">A Passionate Data Analyst in Philipphines</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
